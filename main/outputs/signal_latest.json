@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-08 20:43:19 UTC",
+  "symbol": "EURUSD",
+  "order": {
+    "exec_status": "SKIPPED_STALE_CANDLE",
+    "message": "STALE_CANDLE age=1248m"
+  },
+  "guards": {
+    "frontier": "FRONTIER_OFF",
+    "stale_candle": true,
+    "spread_lock": false,
+    "dup_block": false
+  }
+}
